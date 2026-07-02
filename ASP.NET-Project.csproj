@@ -7,4 +7,8 @@
     <RootNamespace>ASP.NET_Project</RootNamespace>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Folder Include="wwwroot\" />
+  </ItemGroup>
+
 </Project>
